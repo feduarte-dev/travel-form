@@ -2,7 +2,7 @@
 
 <img src="assets/travel-form.png" alt="page" title="page" width=70%>
 
-<br/>
+[Page link](https://feduarte-dev.github.io/travel-form/)
 
 ## Project Description
 
