@@ -6,7 +6,7 @@
 
 ## Project Description
 
-This project was designed to exercise my logic with a few challenges, such as calculating triangle areas, modifying strings, and implementing the classic Fizz Buzz problem.
+This project was designed to develop a form trip in which the user fills in the inputs, and JavaScript validates them to enable the submit button.
 
 ### Technologies
 
@@ -18,7 +18,8 @@ This project was designed to exercise my logic with a few challenges, such as ca
 
 ### What I Learned
 
-- Javascript methods such as unshift, join and Math.abs
+- A lot HTML form tags
+- How to use event listener in buttons and inputs
 
 ## How to Run the Project
 
@@ -40,7 +41,7 @@ This project was designed to exercise my logic with a few challenges, such as ca
    npm install
    ```
 
-4. Right click index.html and open it with live server
+4. Right click form.html and open it with live server
 
 ## Contributions
 
