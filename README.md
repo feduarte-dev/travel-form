@@ -1,10 +1,52 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# README: Travel Form
+
+<img src="assets/travel-form.png" alt="page" title="page" width=70%>
+
+<br/>
+
+## Project Description
+
+This project was designed to develop a form trip in which the user fills in the inputs, and JavaScript validates them to enable the submit button.
+
+### Technologies
+
+- LINUX
+- VSCODE
+- JAVASCRIPT
+- HTML
+- CSS
+
+### What I Learned
+
+- A lot HTML form tags
+- How to use event listener in buttons and inputs
+
+## How to Run the Project
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/feduarte-dev/travel-form
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd your-repository
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Right click form.html and open it with live server
+
+## Contributions
+
+[Felipe](https://www.linkedin.com/in/feduarte-dev/) - form.html - script.css - style-css
+
+
+
+[Trybe](https://www.betrybe.com/) - Everything else

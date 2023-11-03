@@ -1,7 +1,7 @@
 // const { default: JustValidate } = require('just-validate');
 
 // const validator = new JustValidate('#main-form');
-// const submitBtn = document.querySelector('#submit-btn');
+const submitBtn = document.querySelector('#submit-btn');
 // const agreement = document.querySelector('#agreement');
 
 // // gitRequisito 4 //
